@@ -16,6 +16,6 @@ Once the module is loaded correctly, simple click or tap the 'Hide' button. Clic
 
 * Note
 
-This requires the ability for you to click the buttons. It is not voice activated nor does it play automatically.
+This requires the ability for you to click the button. It is not voice activated.
 
 I built this as I am personally working on a touch screen MagicMirror of my own that I plan to use this on.
