@@ -1,6 +1,6 @@
 MM-Hide-All
 ===
-[MagicMirror](https://github.com/MichMich/MagicMirror/tree/v2-beta) Module to hide everything on screen.
+[MagicMirror](https://github.com/MichMich/MagicMirror) Module to hide everything on screen.
 
 Setup:
 ---
